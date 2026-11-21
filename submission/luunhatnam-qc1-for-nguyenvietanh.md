@@ -1,7 +1,7 @@
 # Phiếu QC 1 — Road v1.0
 
 Lô được kiểm (học viên): Nguyễn Việt Anh.  
-Người kiểm (học viên): Lưu Nhật Nam (kiểm chéo, học viên xác nhận).  
+Người kiểm (học viên): Lưu Nhật Nam.  
 Ngày: 21/11/2026. Phiên bản guideline: Road v1.0.  
 File được kiểm (tên + `revision` trong manifest): nguyenvietanh-front.zip, nguyenvietanh-fisheye.zip; revision 3.  
 Số ảnh kiểm: 6 (A01, A03, A05, A06, B03, B06) + 2 ảnh thêm (B11, B12).  
